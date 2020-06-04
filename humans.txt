@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Reshma AWS infra developer
 
 # TECHNOLOGY COLOPHON
 
